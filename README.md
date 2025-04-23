@@ -28,13 +28,20 @@ Me apasiona el desarrollo de software y estoy comprometido con la entrega de sol
 
 Soy una persona autodidacta, proactiva y responsable, con la capacidad de adaptarme a entornos dinámicos y trabajar bajo presión. Además, me encuentro en proceso de certificación como Scrum Master, ya que creo firmemente en la mejora continua y el aprendizaje colaborativo como claves para el éxito profesional.
 
+<h3 align="center">Tecnologías conocidas👨🏻‍💻</h3> 
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,java,php,py,dotnet,css,html,js,nodejs,mysql,firebase,git,github,docker,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+  </a>
+</p>
+
 <p align="center"
 <a href="https://www.linkedin.com/in/jesus-angel-gil-vargas/" target="_blank" style="display: block; text-align: center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" height="500" width="800" style="float: center">
 </a>
 </p>
 
-<br/>
 
 
 [linkedink]: https://www.linkedin.com/in/jesus-angel-gil-vargas
