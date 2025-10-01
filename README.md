@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/jesus-angel-gil-vargas/" target="_blank">JESUS ANGEL GIL VARGAS</a></h1>
 
 
-<h2 align="center">full stack junior con MERN | java | sql | oracle | figma | qa manual | jira | scrum | git hub.</h2>
+<h2 align="center">QA/QC | Scrum & Agile | Postman & JMeter | Jira | PL/SQL (Oracle), T-SQL (SQL Server), MySQL, CRUD | Backend Java & Spring Boot </h2>
 
 <h3 align="center" > <a href="#"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" height="40" style="margin-right: 10px;"></a>Connect with me 🤝 </h3>
 
