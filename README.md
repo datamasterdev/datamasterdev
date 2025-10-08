@@ -32,7 +32,7 @@ Soy una persona autodidacta, proactiva y responsable, con la capacidad de adapta
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,css,html,js,nodejs,mysql,git,github,postman,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,css,html,js,nodejs,mysql,git,github,postman,vscode,bash&perline=12" />
   </a>
 </p>
 
