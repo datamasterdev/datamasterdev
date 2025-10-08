@@ -22,9 +22,9 @@
   </div>
 </p>
 
-Soy Bachiller en Ingeniería de Sistemas con 1 año de experiencia en pruebas de calidad manual en el sector financiero. A lo largo de mi trayectoria he realizado casos de prueba, y he trabajado con herramientas como `TestLink, Jira, Postman y Figma`, además de contar con conocimientos en `JavaScript, Java y Python.`
+Soy Bachiller en Ingeniería de Sistemas con experiencia participando en proyecto de pruebas de calidad manual en el sector financiero. A lo largo de mi trayectoria he realizado casos de prueba, y he trabajado con herramientas como `TestLink, Jira, Postman y Figma`, además de contar con conocimientos en `JavaScript, Java y Python.`
 
-Me apasiona el desarrollo de software y estoy comprometido con la entrega de soluciones de alta calidad, aplicando buenas prácticas y metodologías ágiles. Actualmente, me estoy especializando como programador Backend con Java y estoy en búsqueda de oportunidades para crecer en este campo.
+Me apasiona el desarrollo de software y estoy comprometido con la entrega de soluciones de alta calidad, aplicando buenas prácticas y metodologías ágiles. Actualmente, me estoy especializando como programador Backend con Java en Alura Latam lo cual me ayudará cuando me pase en tema de pruebas manuales a la automatización para futuro más rápidamente
 
 Soy una persona autodidacta, proactiva y responsable, con la capacidad de adaptarme a entornos dinámicos y trabajar bajo presión. Además, me encuentro en proceso de certificación como Scrum Master, ya que creo firmemente en la mejora continua y el aprendizaje colaborativo como claves para el éxito profesional.
 
