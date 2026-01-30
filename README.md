@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/jesus-angel-gil-vargas/" target="_blank">JESUS ANGEL GIL VARGAS</a></h1>
 
 
-<h2 align="center">QA/QC | Scrum & Agile | Postman & JMeter | Jira | PL/SQL (Oracle), T-SQL (SQL Server), MySQL, CRUD | Backend Java & Spring Boot </h2>
+<h2 align="center">QA Engineer | Testing Funcional & Backend (Java - Spring Boot) | API Testing | Postman | SQL | Jira & Zephyr | Git & GitHub</h2>
 
 <h3 align="center" > <a href="#"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" height="40" style="margin-right: 10px;"></a>Connect with me 🤝 </h3>
 
@@ -22,11 +22,11 @@
   </div>
 </p>
 
-Soy Bachiller en Ingeniería de Sistemas con experiencia participando en proyecto de pruebas de calidad manual en el sector financiero. A lo largo de mi trayectoria he realizado casos de prueba, y he trabajado con herramientas como `TestLink, Jira, Postman y Figma`, además de contar con conocimientos en `JavaScript, Java y Python.`
+Soy bachiller en ingeniería de sistemas, enfocado en QA & Software Testing. Cuento con una sólida formación práctica guiada por expertos del sector, lo que me ha permitido dominar el diseño de casos de prueba de APIs, pruebas de Backend y la gestión del ciclo de vida de defectos bajo estándares internacionales.
 
-Me apasiona el desarrollo de software y estoy comprometido con la entrega de soluciones de alta calidad, aplicando buenas prácticas y metodologías ágiles. Actualmente, me estoy especializando como programador Backend con Java en Alura Latam lo cual me ayudará cuando me pase en tema de pruebas manuales a la automatización para futuro más rápidamente
+Mi enfoque se basa en el Shift Left Testing, involucrándome desde la definición de requerimientos para transformar necesidades de negocio en escenarios técnicos claros mediante BDD (Gherkin). Poseo un trasfondo técnico robusto en Java, Spring Boot y SQL, facilitando la colaboración con equipos de desarrollo para identificar incidencias complejas.
 
-Soy una persona autodidacta, proactiva y responsable, con la capacidad de adaptarme a entornos dinámicos y trabajar bajo presión. Además, me encuentro en proceso de certificación como Scrum Master, ya que creo firmemente en la mejora continua y el aprendizaje colaborativo como claves para el éxito profesional.
+Actualmente me preparo para la certificación ISTQB Foundation Level y en la transición hacia la automatización de pruebas con Selenium y Karate DSL
 
 <h3 align="center">Tecnologías conocidas👨🏻‍💻</h3> 
 <!--tech stack icons-->
